@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3c71409-fb7c-4356-b7f3-941846b53fee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ProjectTest.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ProjectTest.java" afterPath="$PROJECT_DIR$/src/ProjectTest.java" />
-    </list>
+    <list default="true" id="b3c71409-fb7c-4356-b7f3-941846b53fee" name="Default" comment="" />
     <ignored path="ProjectTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -239,15 +234,15 @@
       <created>1507953032581</created>
       <option name="number" value="Default" />
       <updated>1507953032581</updated>
-      <workItem from="1507953038890" duration="97000" />
+      <workItem from="1507953038890" duration="228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97000" />
+    <option name="totallyTimeSpent" value="228000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="22" width="1394" height="878" extended-state="6" />
+    <frame x="46" y="22" width="1394" height="878" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
