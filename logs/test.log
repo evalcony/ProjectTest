@@ -1,0 +1,18 @@
+10-16 02:11:28.720[    JedisDataClient.java:37 :INFO ] >>>>>>>>>redisHostMaster ip:127.0.0.1
+10-16 02:11:28.722[    JedisDataClient.java:38 :INFO ] >>>>>>>>>redis port:6379
+10-16 02:11:28.724[    JedisDataClient.java:39 :INFO ] >>>>>>>>>redis timeout:10000
+10-16 02:11:33.838[        ProjectTest.java:26 :INFO ] aaa
+10-16 02:12:17.852[    JedisDataClient.java:37 :INFO ] >>>>>>>>>redisHostMaster ip:127.0.0.1
+10-16 02:12:17.854[    JedisDataClient.java:38 :INFO ] >>>>>>>>>redis port:6379
+10-16 02:12:17.856[    JedisDataClient.java:39 :INFO ] >>>>>>>>>redis timeout:10000
+10-16 02:12:22.975[        ProjectTest.java:26 :INFO ] aaa
+10-16 02:25:15.920[    JedisDataClient.java:34 :INFO ] >>>>>>>>>redisHostMaster ip:127.0.0.1
+10-16 02:25:15.922[    JedisDataClient.java:35 :INFO ] >>>>>>>>>redis port:6379
+10-16 02:25:15.924[    JedisDataClient.java:36 :INFO ] >>>>>>>>>redis timeout:10000
+10-16 02:25:21.031[        ProjectTest.java:33 :INFO ] 
+10-16 02:25:21.062[        ProjectTest.java:25 :INFO ] insert time : 30
+10-16 02:25:39.185[    JedisDataClient.java:34 :INFO ] >>>>>>>>>redisHostMaster ip:127.0.0.1
+10-16 02:25:39.188[    JedisDataClient.java:35 :INFO ] >>>>>>>>>redis port:6379
+10-16 02:25:39.190[    JedisDataClient.java:36 :INFO ] >>>>>>>>>redis timeout:10000
+10-16 02:25:44.306[        ProjectTest.java:33 :INFO ] 
+10-16 02:25:44.336[        ProjectTest.java:25 :INFO ] insert time : 30ms
